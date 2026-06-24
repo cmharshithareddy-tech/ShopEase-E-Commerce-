@@ -70,7 +70,9 @@ Deploying projects using GitHub Pages
 🔎 Product search & filtering system
 📊 Admin dashboard for product management
 ⚙️ Backend integration (Node.js + database)
+
 👩‍💻 Developer
 
 Harshitha Reddy
+
 Frontend Developer | Web Development Enthusiast
