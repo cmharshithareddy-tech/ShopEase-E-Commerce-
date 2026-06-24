@@ -38,38 +38,20 @@ Basic e-commerce logic implementation
 | CSS3                 | Styling & Layout      |
 | JavaScript (Vanilla) | Logic & Interactivity |
 
-📂 Project Structure
-
-ShopEase/
-│── index.html
-│── products.html
-│── cart.html
-│
-│── /css
-│     └── style.css
-│
-│── /js
-│     └── script.js
-|     └── products.js
-│     └── cart.js
-│
-│──README.md
-|
-│──images
 
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](images/s1.png)
+![Home](s1.png)
 
 ### 🛍️ Products Page
-![Products](images/s2.png)
+![Products](s2.png)
 
 ### 🛒 Cart Page
-![Cart](images/s3.png)
+![Cart](s3.png)
 
 ### order page
-![order](images/s4.png)
+![order](s4.png)
 
 
 🎯 Learning Outcome
