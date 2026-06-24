@@ -14,21 +14,36 @@ This project was built as part of a web development internship capstone task.
 ✨ Key Features
 
 🛍️ Product catalog with clean UI layout
+
 ➕ Add to cart functionality
+
 🛒 Cart page with dynamic item updates
+
 💰 Real-time total price calculation
+
 💾 Persistent cart using LocalStorage
+
 📱 Fully responsive design (mobile + desktop)
+
 ⚡ Fast and lightweight frontend (no frameworks)
+
+
 
 🧠 Core Concepts Demonstrated
 
 DOM Manipulation (JavaScript)
+
 Event Handling (click, add/remove items)
+
 LocalStorage for data persistence
+
 Responsive UI design principles
+
 Modular frontend structure
+
 Basic e-commerce logic implementation
+
+
 
 🛠️ Tech Stack
 
@@ -59,17 +74,28 @@ Basic e-commerce logic implementation
 Through this project, I strengthened my skills in:
 
 Building interactive web applications using JavaScript
+
 Structuring scalable frontend projects
+
 Improving UI/UX design thinking
+
 Deploying projects using GitHub Pages
+
+
 
 🚀 Future Improvements
 
 🔐 User authentication (Login/Signup system)
+
 💳 Payment gateway simulation
+
 🔎 Product search & filtering system
+
 📊 Admin dashboard for product management
+
 ⚙️ Backend integration (Node.js + database)
+
+
 
 👩‍💻 Developer
 
